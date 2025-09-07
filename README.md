@@ -81,8 +81,3 @@ g++ main.cpp -framework OpenGL -framework GLUT -o BouncingBall
 Feel free to fork this repository and submit pull requests with improvements.
 
 ---
-
-```
-
-👉 Would you like me to also make a **fancier README with badges (build status, language, license, stars, etc.) and a demo GIF placeholder**, so it looks professional on GitHub?
-```
